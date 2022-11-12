@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import Banner from './componentes/Banner';
+import Colaborador from './componentes/Colaborador';
 import Formulario from './componentes/Formulario';
 import Time from './componentes/Time';
 
